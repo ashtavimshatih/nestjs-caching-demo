@@ -25,3 +25,4 @@ jobs:
 
       - name: Build application(simulates the deploy)
         run: npm run build
+
